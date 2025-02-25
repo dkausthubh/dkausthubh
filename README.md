@@ -3,7 +3,6 @@
 		<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
 </div>
-
 <h1 align="center">Hi 👋, I'm Kausthubh Dadhich</h1>
 <h3 align="center">Software Developer/tech enthusiast with 5+ years of Financial Domain experience in developing applications using C#, ASP.NET MVC, and Web API.</h3>
 
@@ -25,6 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/kausthubh-d-741b68151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kausthubh-d-741b68151" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkausthubh&show_icons=true&locale=en&layout=compact" alt="dkausthubh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkausthubh&show_icons=true&locale=en" alt="dkausthubh" /></p>
+
