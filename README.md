@@ -4,13 +4,11 @@
 
 </div>
 <h1 align="center">Hi 👋, I'm Kausthubh Dadhich</h1>
-<h3 align="center">Software Developer/tech enthusiast with 5+ years of Financial Domain experience in developing applications using C#, ASP.NET MVC, and Web API.</h3>
+<h3 align="center">Software Developer/tech enthusiast with 6+ years of Financial Domain experience in developing applications using C#, ASP.NET MVC, and Web API.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkausthubh&label=Profile%20views&color=0e75b6&style=flat" alt="dkausthubh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkausthubh" alt="dkausthubh" /></a> </p>
-
-- 🔭 I’m currently working on **AI ChatBot**
 
 - 🌱 I’m currently learning **Azure services, Containerization(Docker, microservices) grpc&GraphQl,**
 
