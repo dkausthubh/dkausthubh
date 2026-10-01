@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://dkausthubh.github.io/">Portfolio</a> ·
   <a href="https://linkedin.com/in/kausthubh-d-741b68151">LinkedIn</a> ·
-  <a href="mailto:dkausthubh@gmail.com">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dkausthubh@gmail.com" class="button primary" target="_blank" rel="noopener noreferrer"> Email Me </a>
 </p>
 
 ---
