@@ -1,34 +1,48 @@
-<div align="center">
-	<br>
-		<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="20" height="20">
-
-</div>
 <h1 align="center">Hi 👋, I'm Kausthubh Dadhich</h1>
-<h3 align="center">Software Developer/tech enthusiast with 6+ years of Financial Domain experience in developing applications using C#, ASP.NET MVC, and Web API.</h3>
+<h3 align="center">Senior .NET Full Stack Developer</h3>
+<p align="center">6+ years building enterprise applications in investment banking and wealth management with C#, ASP.NET Core, SQL Server, Angular and Azure.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dkausthubh&label=Profile%20views&color=0e75b6&style=flat" alt="dkausthubh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkausthubh" alt="dkausthubh" /></a> </p>
-
-- 🌱 I’m currently learning **Azure services, Containerization(Docker, microservices) grpc&GraphQl,**
-
-- 👯 I’m looking to collaborate on **Kubernetes, Microservices**
-
-- 🤝 I’m looking for help with **Azure Functions & Event-Driven Architectures**
-
-- 💬 Visit my Portfolio **https://dkausthubh.github.io/**
-
-- 📫 How to reach me **dkausthubh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kausthubh-d-741b68151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kausthubh-d-741b68151" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dkausthubh.github.io/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/kausthubh-d-741b68151">LinkedIn</a> ·
+  <a href="mailto:dkausthubh@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkausthubh&show_icons=true&locale=en&layout=compact" alt="dkausthubh" /></p>
+### 🔧 Tech stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkausthubh&show_icons=true&locale=en" alt="dkausthubh" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" title=".NET" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" title="SQL Server" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
+</p>
 
+**Also work with:** ASP.NET MVC / Web API, OAuth2 / JWT, SSIS, GitLab and TeamCity CI/CD, HashiCorp Vault.
+
+---
+
+### 🚀 Featured projects
+
+**[AI-License-Recertification-Platform](https://github.com/dkausthubh/AI-License-Recertification-Platform)**
+C# / .NET application using Azure OpenAI. Includes documented security practices: secrets kept out of source control with .NET User Secrets, Gitleaks scanning, and Git history remediation.
+
+**[GrowwApp-Clone](https://github.com/dkausthubh/GrowwApp-Clone)**
+Investing app clone built with .NET, SQL Server and Angular, to explore trading and portfolio workflows.
+
+---
+
+### 🌱 Currently exploring
+
+Azure AI services · Docker and containerization · Microservices · Event-driven architecture
+
+---
+
+### 📫 Get in touch
+
+Portfolio: [dkausthubh.github.io](https://dkausthubh.github.io/) · Email: [dkausthubh@gmail.com](mailto:dkausthubh@gmail.com)
